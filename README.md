@@ -33,15 +33,18 @@
 <img src="https://github-readme-stats.vercel.app/api?username=captainsza&show_icons=true"/>
   </div>
   
- <!--   my-skils -->
-
-[![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/BEPb/BEPb) [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories)                                                                               
+                                                                            
   
   
 I am a learner of Full Stack Developer and Machine Learning learning also adopting to every technoligies<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+ <!--   my-skils -->
+
+[![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/BEPb/BEPb) [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories)   
  :telescope: I’m a student of data science and also trying to adopt full stack with ML progress.....
 
 - :seedling: Exploring Technical Content Writing.
+- 
 
 - :zap: In my free time, I try build something new ideas and read tech articles.
 
