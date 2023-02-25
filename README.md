@@ -36,7 +36,7 @@
                                                                             
   
   
-I am a learner of Full Stack Development and Machine Learning also adopting to every other technoligies<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a learner of Full Stack Development and Machine Learning also adopting to every other technologies<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
  <!--   my-skils -->
 
@@ -44,7 +44,6 @@ I am a learner of Full Stack Development and Machine Learning also adopting to e
  :telescope: I’m a student of data science and also trying to adopt full stack with ML progress.....
 
 - :seedling: Exploring Technical Content Writing.
-- 
 
 - :zap: In my free time, I try build something new ideas and read tech articles.
 
