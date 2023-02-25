@@ -17,8 +17,9 @@
 </div>
 ### :blush: About Me :
 
-
+<div id="header" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=captainsza&show_icons=true"/>
+  </div>
 I am a learner of Full Stack Developer and Machine Learning learning also adopting to every technoligies<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
  :telescope: I’m a student of data science and also trying to adopt full stack with ML progress.....
 
