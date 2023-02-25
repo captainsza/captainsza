@@ -1,3 +1,9 @@
+<!--   my-header-img -->
+![](/Bottom_up.svg)
+
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Captain+nice+to+meet+you;+Welcome+to+My+Profile!;Always+learning+new+things+;Machine+learning+enthusiast+;Also+good+in+fullstack+development)](https://git.io/typing-svg)
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -5,8 +11,6 @@
 <!--   my-header-img -->
 ![](./header_.png)
 
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Captain+nice+to+meet+you;+Welcome+to+My+Profile!;Always+learning+new+things+;Machine+learning+enthusiast+;Also+good+in+fullstack+development)](https://git.io/typing-svg)
 
 
 <h1>
