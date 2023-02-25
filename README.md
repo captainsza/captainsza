@@ -1,6 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Captain+nice+to+meet+you;+Welcome+to+My+Profile!;Always+learning+new+things+;Machine+learning+enthusiast+;Also+good+in+fullstack+development)](https://git.io/typing-svg)
+
+
 <h1>
   hey there  I m captain
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -49,3 +54,8 @@ I am a learner of Full Stack Developer and Machine Learning learning also adopti
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=captainsza&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=captainsza&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### Profile Views
+counting of visitors to this page in this section started from feb 25 2023
+
+![](https://count.getloli.com/get/@captainsza.github.readme)
+</br>
