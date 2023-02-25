@@ -36,7 +36,7 @@
                                                                             
   
   
-I am a learner of Full Stack Developer and Machine Learning learning also adopting to every technoligies<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a learner of Full Stack Development and Machine Learning also adopting to every other technoligies<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
  <!--   my-skils -->
 
