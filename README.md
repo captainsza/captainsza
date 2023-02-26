@@ -21,6 +21,7 @@
 <a href="https://open.spotify.com/playlist/4tQ1yCCyMH4PThKMgsDi6K?si=4533c90623dc4f32&nd=1">
     <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/315_Spotify_logo-128.png"/>
     </a>
+  <a href="[https://www.instagram.com/rachelmartam](https://www.instagram.com/captainsza_c7/)"><img height="50" src="https://img.icons8.com/color/96/000000/instagram-new.png" /></a>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -33,8 +34,12 @@
   
                                                                             
   
-  
-I am a learner of Full Stack Development and Machine Learning also adopting to every other technologies
+🤖 I love learning about and making machine learning systems but also good in full stack development.
+
+💻 I am constantly seeking out new technologies and learning about them.
+
+🤝 I am open to collaborating with others on various projects, particularly those related to machine learning or areas that I have yet to explore.
+
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
  <!--   my-skils -->
