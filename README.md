@@ -21,7 +21,7 @@
 <a href="https://open.spotify.com/playlist/4tQ1yCCyMH4PThKMgsDi6K?si=4533c90623dc4f32&nd=1">
     <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/315_Spotify_logo-128.png"/>
     </a>
-  <a href="[https://www.instagram.com/rachelmartam](https://www.instagram.com/captainsza_c7/)"><img height="50" src="https://img.icons8.com/color/96/000000/instagram-new.png" /></a>
+  <a href="https://www.instagram.com/rachelmartam](https://www.instagram.com/captainsza_c7/"><img height="50" src="https://img.icons8.com/color/96/000000/instagram-new.png" /></a>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
