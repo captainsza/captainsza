@@ -1,5 +1,4 @@
-<!--   my-header-img -->
-![](/Bottom_up.svg)
+
 
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Captain+nice+to+meet+you;+Welcome+to+My+Profile!;Always+learning+new+things+;Machine+learning+enthusiast+;Also+good+in+fullstack+development)](https://git.io/typing-svg)
@@ -8,8 +7,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<!--   my-header-img -->
-![](./header_.png)
+
 
 
 
@@ -22,14 +20,12 @@
 </a>
 <a href="https://open.spotify.com/playlist/4tQ1yCCyMH4PThKMgsDi6K?si=4533c90623dc4f32&nd=1">
     <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/315_Spotify_logo-128.png"/>
-</a>
-<a href="https://www.instagram.com/captainsza_c7/">
-<img src="[https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg](https://cdn-icons-png.flaticon.com/128/1400/1400829.png)" height="50" alt="Follow me on Instagram" title="Follow me on Instagram"/>
-  </a>
+    </a>
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-### :blush: About Me :
+# :blush: About Me :
 
 <div id="header" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=captainsza&show_icons=true"/>
@@ -38,7 +34,8 @@
                                                                             
   
   
-I am a learner of Full Stack Development and Machine Learning also adopting to every other technologies<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a learner of Full Stack Development and Machine Learning also adopting to every other technologies
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
  <!--   my-skils -->
 
