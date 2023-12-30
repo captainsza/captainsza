@@ -1,11 +1,19 @@
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Captain+nice+to+meet+you;+Welcome+to+My+Profile!;Always+learning+new+things+;Machine+learning+enthusiast+;Also+good+in+fullstack+development)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Captain—nice+to+meet+you!;Welcome+to+My+Profile!;Always+learning+new+things+;Passionate+about+Machine+Learning;Experienced+in+Fullstack+Development">
+  </a>
+</p>
+
+
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
 </div>
+
+
 
 
 
@@ -13,23 +21,19 @@
 ### hey there  I m [captain!](https://captain-sza.me/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <a href="https://www.linkedin.com/in/zaid-ahmad-186665229/">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
 </a>
-<a href="https://open.spotify.com/playlist/4tQ1yCCyMH4PThKMgsDi6K?si=4533c90623dc4f32&nd=1">
-    <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/315_Spotify_logo-128.png"/>
-    </a>
-  <a href="https://www.instagram.com/rachelmartam](https://www.instagram.com/captainsza_c7/"><img height="50" src="https://img.icons8.com/color/96/000000/instagram-new.png" /></a>
+  <a href="https://www.instagram.com/rachelmartam](https://www.instagram.com/captainsza_c7/"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"></a>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 # :blush: About Me :
 
-<div id="header" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=captainsza&show_icons=true"/>
-  </div>
-  
-                                                                            
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=captainsza&theme=github_dark&show_icons=true">
+</p>
+                                                                       
   
 🤖 I love learning about and making machine learning systems but also good in full stack development.
 
@@ -52,8 +56,13 @@
 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=captainsza&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=captainsza&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=captainsza&theme=dark&background=000000">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainsza&layout=compact&theme=vision-friendly-dark">
+</p>
+
 ### Profile Views
 counting of visitors to this page in this section started from feb 25 2023
 
