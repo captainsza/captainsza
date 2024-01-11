@@ -56,9 +56,7 @@
 
 
 ### :fire: My Stats :
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=captainsza&theme=dark&background=000000">
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainsza&layout=compact&theme=vision-friendly-dark">
 </p>
