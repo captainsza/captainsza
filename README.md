@@ -1,68 +1,148 @@
-
-
-<!--   my-ticker -->    
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Captain—nice+to+meet+you!;Welcome+to+My+Profile!;Always+learning+new+things+;Passionate+about+Machine+Learning;Experienced+in+Fullstack+Development">
-  </a>
-</p>
-
-
-
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+<!-- Matrix Digital Rain Effect (CSS Animation) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Captain%20Universe&fontSize=90&animation=fadeIn&fontColor=d6ace6&desc=Building%20the%20Future%20with%20Code&descSize=30" />
 </div>
 
+<!-- Holographic Profile Header -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=6B4BF7&background=8FFF2C00&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=150&lines=Welcome+to+the+Digital+Frontier+🌌;Quantum+Developer+%7C+AI+Engineer+%7C+Tech+Visionary+🚀;Crafting+Tomorrow's+Solutions+Today+⚡" alt="Typing SVG"/>
+  </a>
+</div>
 
+<!-- Neural Network Animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="800" />
+</div>
 
+<!-- Cyberpunk-styled Tech Stack -->
+# 🌐 Neural Interface: Tech Arsenal
 
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55"/>
+      <br>Python.ai
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55"/>
+      <br>NeuroJS
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55"/>
+      <br>ReactVR
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55"/>
+      <br>HyperDocker
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55"/>
+      <br>QuantumAWS
+    </td>
+  </tr>
+</table>
 
+<!-- Holographic Stats Display -->
+<div align="center">
+  <h2>🔮 Quantum Statistics Matrix</h2>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=captainsza&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&border_radius=15&ring_color=6B4BF7" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=captainsza&theme=radical&background=0D1117&hide_border=true&border_radius=15&ring=6B4BF7" width="49%" />
+</div>
 
-### my portfolio - [captain!](https://captain-sza.me/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<!-- 3D Contribution Graph -->
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=captainsza&bg_color=0D1117&color=6B4BF7&line=6B4BF7&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a href="https://www.linkedin.com/in/zaid-ahmad-186665229/">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
-</a>
-  <a href="https://www.instagram.com/rachelmartam](https://www.instagram.com/captainsza_c7/"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"></a>
+<!-- Cybernetic Project Showcase -->
+## 🎭 Neural Projects Archive
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <!-- Project Cards with Hover Effects -->
+  <a href="https://github.com/captainsza/webroots" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=captainsza&repo=webroots&theme=radical&bg_color=0D1117&hide_border=true&border_radius=15" />
+  </a>
+  <a href="https://github.com/yourusername/backend_airomap" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=captainsza&repo=backend_airomap&theme=radical&bg_color=0D1117&hide_border=true&border_radius=15" />
+  </a>
+</div>
+
+<!-- Skill Matrix Animation -->
+## 🧬 Neural Network Architecture
+
+```typescript
+interface QuantumDeveloper {
+    core: {
+        ai: ["Deep Learning", "Computer Vision", "NLP", "Reinforcement Learning"],
+        quantum: ["Quantum Computing", "Quantum ML", "Quantum Algorithms"],
+        metaverse: ["AR/VR Development", "3D Modeling", "Spatial Computing"]
+    };
+    augmentations: {
+        frontend: ["Next.js", "Three.js", "WebGL", "WebXR"],
+        backend: ["Quantum APIs", "Neural Microservices", "Blockchain"],
+        devops: ["Neural CI/CD", "Quantum Cloud", "AI Ops"]
+    };
+    consciousness_level: number; // Over 9000!
+}
+```
+
+<!-- Cyberpunk Contact Section -->
+## 🌐 Neural Network Endpoints
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/Neural_Link-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Thought_Stream-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="https://dev.to/yourusername">
+    <img src="https://img.shields.io/badge/Neural_Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0D1117" />
+  </a>
 </div>
-# :blush: About Me :
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=captainsza&theme=github_dark&show_icons=true">
-</p>
-                                                                       
+<!-- Animated Skill Progression -->
+<div align="center">
+  <h2>🧠 Neural Enhancement Progress</h2>
   
-🤖 I love learning about and making machine learning systems but also good in full stack development.
+  ![Python](https://img.shields.io/badge/Python-★★★★★-6B4BF7?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
+  ![AI](https://img.shields.io/badge/Artificial_Intelligence-★★★★☆-6B4BF7?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117)
+  ![Quantum](https://img.shields.io/badge/Quantum_Computing-★★★☆☆-6B4BF7?style=for-the-badge&logo=qiskit&logoColor=white&labelColor=0D1117)
+</div>
 
-💻 I am constantly seeking out new technologies and learning about them.
+<!-- Holographic Achievement Display -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=captainsza&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+</div>
 
-🤝 I am open to collaborating with others on various projects, particularly those related to machine learning or areas that I have yet to explore.
+<!-- Neural Activity Tracker -->
+<div align="center">
+  <h2>🌌 Quantum Workspace</h2>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="45%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284342-7c5dc3fe-631a-4ff9-9dd9-e6b43c64e080.gif" width="45%" />
+</div>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+<!-- Futuristic Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Initiating%20Neural%20Handshake&fontSize=50&animation=fadeIn&fontColor=d6ace6" />
+</div>
 
- <!--   my-skils -->
+<!-- Profile Views Counter with Futuristic Design -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=captainsza&label=Neural+Interface+Connections&color=6B4BF7&style=for-the-badge" />
+</div>
 
-[![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/BEPb/BEPb) [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories)   
- :telescope: I’m a student of data science and also trying to adopt full stack with ML progress.....
+<!-- Quantum Entanglement Animation -->
+<!-- Footer -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  
+  <h3>Let's Connect! 🤝</h3>
+  <p>Open for collaborations and interesting projects!</p>
+</div>
 
-- :zap: In my free time, I try build something new ideas and read tech articles.
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/captainsza/captainsza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/captainsza/captainsza/output/github-contribution-grid-snake.svg">
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-captain-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
-
-### :fire: My Stats :
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=captainsza&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainsza&layout=compact&theme=vision-friendly-dark">
-</p>
-
-### Profile Views
-counting of visitors to this page in this section started from feb 25 2023
-
-![](https://count.getloli.com/get/@captainsza.github.readme)
-</br>
+</picture>
