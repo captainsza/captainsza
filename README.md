@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🔮 Quantum Statistics Matrix</h2>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=captainsza&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&border_radius=15&ring_color=6B4BF7" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=captainsza&theme=radical&background=0D1117&hide_border=true&border_radius=15&ring=6B4BF7" width="49%" />
+<!--   <img src="https://streak-stats.demolab.com?user=captainsza&theme=radical&background=0D1117&hide_border=true&border_radius=15&ring=6B4BF7" width="49%" /> -->
 </div>
 
 <!-- 3D Contribution Graph -->
@@ -141,8 +141,6 @@ interface QuantumDeveloper {
 </div>
 
 <!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/captainsza/captainsza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/captainsza/captainsza/output/github-contribution-grid-snake.svg">
-
-</picture>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
