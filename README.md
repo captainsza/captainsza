@@ -6,7 +6,7 @@
 <!-- Holographic Profile Header -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=6B4BF7&background=8FFF2C00&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=150&lines=Welcome+to+the+Digital+Frontier+🌌;Quantum+Developer+%7C+AI+Engineer+%7C+Tech+Visionary+🚀;Crafting+Tomorrow's+Solutions+Today+⚡" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=6B4BF7&background=8FFF2C00&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=150&lines=Welcome+to+the+Digital+Frontier+🌌;+%7C+AI+Engineer+%7C+Tech+Visionary+🚀;Crafting+Tomorrow's+Solutions+Today+⚡" alt="Typing SVG"/>
   </a>
 </div>
 
