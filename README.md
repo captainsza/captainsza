@@ -16,7 +16,7 @@
 </div>
 
 <!-- Cyberpunk-styled Tech Stack -->
-# 🌐 Neural Interface: Tech Arsenal
+# 🌐 Tech Arsenal
 
 <table align="center">
   <tr>
