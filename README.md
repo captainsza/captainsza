@@ -1,6 +1,6 @@
 <!-- Matrix Digital Rain Effect (CSS Animation) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Captain%20Universe&fontSize=90&animation=fadeIn&fontColor=d6ace6&desc=Building%20the%20Future%20with%20Code&descSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Captain%20Empire&fontSize=90&animation=fadeIn&fontColor=d6ace6&desc=Building%20the%20Future%20with%20Code&descSize=30" />
 </div>
 
 <!-- Holographic Profile Header -->
