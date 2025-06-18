@@ -54,7 +54,7 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=captainsza&bg_color=0D1117&color=6B4BF7&line=6B4BF7&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Cybernetic Project Showcase -->
-## 🎭 Neural Projects Archive
+## 🎭 Captain Projects Archive
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <!-- Project Cards with Hover Effects -->
